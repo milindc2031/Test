@@ -1,5 +1,13 @@
-subject line
+Build Version :     
 
-what happened
+JIRA Issue /Feature ID :    
 
-[ticket: X]
+Brief Description of the Changes :  
+
+Modules Affected :     
+
+Code Reviewed by : 
+
+Test Cases executed :
+
+
