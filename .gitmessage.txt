@@ -1,5 +1,8 @@
-Build Version :     
+echo -n "Enter Build version> "
+read text
+echo "You entered: $text"
 
+Build Version :     
 JIRA Issue /Feature ID :    
 
 Brief Description of the Changes :  
