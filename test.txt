@@ -1,15 +1,11 @@
-<<<<<<< HEAD
 test has been changed
 test has been changed
 test has been changed
 test has been changed
 test has been changed
 this file has been changed
-=======
 this file has been changed
 this file has been changed
-
->>>>>>> 76c7439f97522c7a290847706eb0556c760ab9f3
 this file has been changed
 this file has been changed
 this is test file
